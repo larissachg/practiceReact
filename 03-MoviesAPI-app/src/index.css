@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #1d8499;
+  padding-top: 1rem;
+  text-align: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
