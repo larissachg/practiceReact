@@ -1,0 +1,687 @@
+{
+  "count": 73,
+  "pages": 4,
+  "prev": "https://www.theboysapi.com/api/character/?page=2",
+  "next": "https://www.theboysapi.com/api/character/?page=4",
+  "results": [
+    {
+      "id": 41,
+      "name": "Monique Milk",
+      "real_name": "Monique Milk",
+      "species": ["Human"],
+      "citizenship": "American",
+      "gender": "Female",
+      "status": "Alive",
+      "affiliation": null,
+      "families": [
+        {
+          "name": "Mother's Milk",
+          "url": "https://www.theboysapi.com/api/character/3",
+          "relationship": "Ex-husband"
+        },
+        {
+          "name": "Janine Milk",
+          "url": "https://www.theboysapi.com/api/character/36",
+          "relationship": "Daughter"
+        },
+        {
+          "name": "Todd",
+          "url": "https://www.theboysapi.com/api/character/54",
+          "relationship": "Partner"
+        }
+      ],
+      "portrayed": ["Alvina August (season 1)", "Frances Turner (season 3)"],
+      "first_seen": {
+        "name": "You Found Me",
+        "url": "https://www.theboysapi.com/api/episode/8"
+      },
+      "last_seen": {
+        "name": "Here Comes a Candle to Light You to Bed",
+        "url": "https://www.theboysapi.com/api/episode/23"
+      },
+      "season": [1, 3],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_41.jpg",
+      "url": "https://www.theboysapi.com/api/character/41"
+    },
+    {
+      "id": 42,
+      "name": "Naqib",
+      "real_name": "Unknow",
+      "species": ["Supe"],
+      "citizenship": "Syrian",
+      "gender": "Male",
+      "status": "Deceased",
+      "affiliation": null,
+      "families": null,
+      "portrayed": ["Krishan Dutt (Season 1)", "Samer Salem (Season 2)"],
+      "first_seen": {
+        "name": "The Self-Preservation Society",
+        "url": "https://www.theboysapi.com/api/episode/7"
+      },
+      "last_seen": {
+        "name": "The Big Ride",
+        "url": "https://www.theboysapi.com/api/episode/9"
+      },
+      "season": [1, 2, 3],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_42.jpg",
+      "url": "https://www.theboysapi.com/api/character/42"
+    },
+    {
+      "id": 43,
+      "name": "Popclaw",
+      "real_name": "Charlotte",
+      "species": ["Supe"],
+      "citizenship": "American",
+      "gender": "Female",
+      "status": "Deceased",
+      "affiliation": [
+        {
+          "name": "Vought International",
+          "url": "https://www.theboysapi.com/api/affiliation/3",
+          "is_former": true
+        },
+        {
+          "name": "Teenage Kix",
+          "url": "https://www.theboysapi.com/api/affiliation/15",
+          "is_former": true
+        }
+      ],
+      "families": null,
+      "portrayed": ["Brittany Allen"],
+      "first_seen": {
+        "name": "Get Some",
+        "url": "https://www.theboysapi.com/api/episode/3"
+      },
+      "last_seen": {
+        "name": "Good for the Soul",
+        "url": "https://www.theboysapi.com/api/episode/5"
+      },
+      "season": [1],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_43.jpg",
+      "url": "https://www.theboysapi.com/api/character/43"
+    },
+    {
+      "id": 44,
+      "name": "Rachel Saunders",
+      "real_name": "Rachel Saunders",
+      "species": ["Human"],
+      "citizenship": "American",
+      "gender": "Female",
+      "status": "Alive",
+      "affiliation": null,
+      "families": [
+        {
+          "name": "Rebecca Saunders Butcher",
+          "url": "https://www.theboysapi.com/api/character/27",
+          "relationship": "Sister"
+        },
+        {
+          "name": "Billy Butcher",
+          "url": "https://www.theboysapi.com/api/character/1",
+          "relationship": "Brother-In-Law"
+        },
+        {
+          "name": "Ryan Butcher",
+          "url": "https://www.theboysapi.com/api/character/47",
+          "relationship": "Nephew"
+        }
+      ],
+      "portrayed": ["Brit Morgan"],
+      "first_seen": {
+        "name": "Good for the Soul",
+        "url": "https://www.theboysapi.com/api/episode/5"
+      },
+      "last_seen": {
+        "name": "Good for the Soul",
+        "url": "https://www.theboysapi.com/api/episode/5"
+      },
+      "season": [1],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_44.jpg",
+      "url": "https://www.theboysapi.com/api/character/44"
+    },
+    {
+      "id": 45,
+      "name": "Robert Singer",
+      "real_name": "Robert A. Singer",
+      "species": ["Human"],
+      "citizenship": "American",
+      "gender": "Male",
+      "status": "Alive",
+      "affiliation": [
+        {
+          "name": "United States Department of Defense",
+          "url": "https://www.theboysapi.com/api/affiliation/22",
+          "is_former": false
+        }
+      ],
+      "families": null,
+      "portrayed": ["Jim Beaver"],
+      "first_seen": {
+        "name": "You Found Me",
+        "url": "https://www.theboysapi.com/api/episode/8"
+      },
+      "last_seen": {
+        "name": "The Instant White-Hot Wild",
+        "url": "https://www.theboysapi.com/api/episode/24"
+      },
+      "season": [1, 2, 3],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_45.jpg",
+      "url": "https://www.theboysapi.com/api/character/45"
+    },
+    {
+      "id": 46,
+      "name": "Robin Ward",
+      "real_name": "Robin Ward",
+      "species": ["Human"],
+      "citizenship": "American",
+      "gender": "Female",
+      "status": "Deceased",
+      "affiliation": null,
+      "families": null,
+      "portrayed": ["Jess Salgueiro"],
+      "first_seen": {
+        "name": "The Name of the Game",
+        "url": "https://www.theboysapi.com/api/episode/1"
+      },
+      "last_seen": {
+        "name": "The Innocents",
+        "url": "https://www.theboysapi.com/api/episode/6"
+      },
+      "season": [1],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_46.jpg",
+      "url": "https://www.theboysapi.com/api/character/46"
+    },
+    {
+      "id": 47,
+      "name": "Ryan Butcher",
+      "real_name": "Ryan Butcher",
+      "species": ["Supe"],
+      "citizenship": "American",
+      "gender": "Male",
+      "status": "Alive",
+      "affiliation": null,
+      "families": [
+        {
+          "name": "Homelander",
+          "url": "https://www.theboysapi.com/api/character/8",
+          "relationship": "Father"
+        },
+        {
+          "name": "Rebecca Saunders Butcher",
+          "url": "https://www.theboysapi.com/api/character/27",
+          "relationship": "Mother"
+        },
+        {
+          "name": "Billy Butcher",
+          "url": "https://www.theboysapi.com/api/character/1",
+          "relationship": "Step-father"
+        },
+        {
+          "name": "Grace Mallory",
+          "url": "https://www.theboysapi.com/api/character/7",
+          "relationship": "Adoptive Aunt"
+        },
+        {
+          "name": "Soldier Boy",
+          "url": "https://www.theboysapi.com/api/character/20",
+          "relationship": "Grandfather"
+        }
+      ],
+      "portrayed": ["Parker Corno (Season 1)", "Cameron Crovetti"],
+      "first_seen": {
+        "name": "You Found Me",
+        "url": "https://www.theboysapi.com/api/episode/8"
+      },
+      "last_seen": {
+        "name": "The Instant White-Hot Wild",
+        "url": "https://www.theboysapi.com/api/episode/24"
+      },
+      "season": [1, 2, 3],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_47.jpg",
+      "url": "https://www.theboysapi.com/api/character/47"
+    },
+    {
+      "id": 48,
+      "name": "Sam Butcher",
+      "real_name": "Sam Butcher",
+      "species": ["Human"],
+      "citizenship": "British",
+      "gender": "Male",
+      "status": "Alive",
+      "affiliation": null,
+      "families": [
+        {
+          "name": "Billy Butcher",
+          "url": "https://www.theboysapi.com/api/character/1",
+          "relationship": "Son"
+        },
+        {
+          "name": "Lenny Butcher",
+          "url": "https://www.theboysapi.com/api/character/50",
+          "relationship": "Son"
+        },
+        {
+          "name": "Connie Butcher",
+          "url": "https://www.theboysapi.com/api/character/49",
+          "relationship": "Wife"
+        },
+        {
+          "name": "Ryan Butcher",
+          "url": "https://www.theboysapi.com/api/character/47",
+          "relationship": "Step-grandson"
+        }
+      ],
+      "portrayed": ["John Noble", "Brendan Murray (Young)"],
+      "first_seen": {
+        "name": "Butcher, Baker, Candlestick Maker",
+        "url": "https://www.theboysapi.com/api/episode/15"
+      },
+      "last_seen": {
+        "name": "Here Comes a Candle to Light You to Bed",
+        "url": "https://www.theboysapi.com/api/episode/23"
+      },
+      "season": [2, 3],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_48.jpg",
+      "url": "https://www.theboysapi.com/api/character/48"
+    },
+    {
+      "id": 49,
+      "name": "Connie Butcher",
+      "real_name": "Connie Butcher",
+      "species": ["Human"],
+      "citizenship": "British",
+      "gender": "Female",
+      "status": "Alive",
+      "affiliation": null,
+      "families": [
+        {
+          "name": "Billy Butcher",
+          "url": "https://www.theboysapi.com/api/character/1",
+          "relationship": "Son"
+        },
+        {
+          "name": "Lenny Butcher",
+          "url": "https://www.theboysapi.com/api/character/50",
+          "relationship": "Son"
+        },
+        {
+          "name": "Sam Butcher",
+          "url": "https://www.theboysapi.com/api/character/48",
+          "relationship": "Husband"
+        },
+        {
+          "name": "Ryan Butcher",
+          "url": "https://www.theboysapi.com/api/character/47",
+          "relationship": "Step-grandson"
+        }
+      ],
+      "portrayed": ["Lesley Nicol", "Adrianna Prosser (Young)"],
+      "first_seen": {
+        "name": "Butcher, Baker, Candlestick Maker",
+        "url": "https://www.theboysapi.com/api/episode/15"
+      },
+      "last_seen": {
+        "name": "Here Comes a Candle to Light You to Bed",
+        "url": "https://www.theboysapi.com/api/episode/23"
+      },
+      "season": [2, 3],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_49.jpg",
+      "url": "https://www.theboysapi.com/api/character/49"
+    },
+    {
+      "id": 50,
+      "name": "Lenny Butcher",
+      "real_name": "Lenny Butcher",
+      "species": ["Human"],
+      "citizenship": "British",
+      "gender": "Male",
+      "status": "Deceased",
+      "affiliation": null,
+      "families": [
+        {
+          "name": "Billy Butcher",
+          "url": "https://www.theboysapi.com/api/character/1",
+          "relationship": "Brother"
+        },
+        {
+          "name": "Connie Butcher",
+          "url": "https://www.theboysapi.com/api/character/49",
+          "relationship": "Mother"
+        },
+        {
+          "name": "Sam Butcher",
+          "url": "https://www.theboysapi.com/api/character/48",
+          "relationship": "Father"
+        }
+      ],
+      "portrayed": ["Unknow"],
+      "first_seen": {
+        "name": "The Last Time to Look on This World of Lies",
+        "url": "https://www.theboysapi.com/api/episode/21"
+      },
+      "last_seen": {
+        "name": "Here Comes a Candle to Light You to Bed",
+        "url": "https://www.theboysapi.com/api/episode/23"
+      },
+      "season": [2, 3],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_50.jpg",
+      "url": "https://www.theboysapi.com/api/character/50"
+    },
+    {
+      "id": 51,
+      "name": "Silver Kincaid",
+      "real_name": "Unknow",
+      "species": ["Supe"],
+      "citizenship": "British",
+      "gender": "Female",
+      "status": "Alive",
+      "affiliation": [
+        {
+          "name": "Vought International",
+          "url": "https://www.theboysapi.com/api/affiliation/3",
+          "is_former": false
+        }
+      ],
+      "families": null,
+      "portrayed": ["Jasmin Husain"],
+      "first_seen": {
+        "name": "Payback",
+        "url": "https://www.theboysapi.com/api/episode/17"
+      },
+      "last_seen": {
+        "name": "Barbary Coast",
+        "url": "https://www.theboysapi.com/api/episode/19"
+      },
+      "season": [3],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_51.jpg",
+      "url": "https://www.theboysapi.com/api/character/51"
+    },
+    {
+      "id": 52,
+      "name": "The Termite",
+      "real_name": "Unknow",
+      "species": ["Supe"],
+      "citizenship": "American",
+      "gender": "Male",
+      "status": "Deceased",
+      "affiliation": [
+        {
+          "name": "Vought International",
+          "url": "https://www.theboysapi.com/api/affiliation/3",
+          "is_former": false
+        },
+        {
+          "name": "Global Wellness Center",
+          "url": "https://www.theboysapi.com/api/affiliation/17",
+          "is_former": false
+        }
+      ],
+      "families": null,
+      "portrayed": ["Brett Geddes"],
+      "first_seen": {
+        "name": "The Name of the Game",
+        "url": "https://www.theboysapi.com/api/episode/1"
+      },
+      "last_seen": {
+        "name": "Herogasm",
+        "url": "https://www.theboysapi.com/api/episode/22"
+      },
+      "season": [1, 3],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_52.jpg",
+      "url": "https://www.theboysapi.com/api/character/52"
+    },
+    {
+      "id": 53,
+      "name": "The Legend",
+      "real_name": "Unknow",
+      "species": ["Human"],
+      "citizenship": "American",
+      "gender": "Male",
+      "status": "Alive",
+      "affiliation": [
+        {
+          "name": "Vought International",
+          "url": "https://www.theboysapi.com/api/affiliation/3",
+          "is_former": true
+        }
+      ],
+      "families": null,
+      "portrayed": ["Paul Reiser"],
+      "first_seen": {
+        "name": "The Last Time to Look on This World of Lies",
+        "url": "https://www.theboysapi.com/api/episode/21"
+      },
+      "last_seen": {
+        "name": "Here Comes a Candle to Light You to Bed",
+        "url": "https://www.theboysapi.com/api/episode/23"
+      },
+      "season": [3],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_53.jpg",
+      "url": "https://www.theboysapi.com/api/character/53"
+    },
+    {
+      "id": 54,
+      "name": "Todd",
+      "real_name": "Todd",
+      "species": ["Human"],
+      "citizenship": "American",
+      "gender": "Male",
+      "status": "Alive",
+      "affiliation": null,
+      "families": [
+        {
+          "name": "Monique Milk",
+          "url": "https://www.theboysapi.com/api/character/41",
+          "relationship": "Partner"
+        }
+      ],
+      "portrayed": ["Matthew Gorman"],
+      "first_seen": {
+        "name": "Payback",
+        "url": "https://www.theboysapi.com/api/episode/17"
+      },
+      "last_seen": {
+        "name": "The Instant White-Hot Wild",
+        "url": "https://www.theboysapi.com/api/episode/24"
+      },
+      "season": [3],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_54.jpg",
+      "url": "https://www.theboysapi.com/api/character/54"
+    },
+    {
+      "id": 55,
+      "name": "Zoe Neuman",
+      "real_name": "Zoe Neuman",
+      "species": ["Supe"],
+      "citizenship": "American",
+      "gender": "Female",
+      "status": "Alive",
+      "affiliation": null,
+      "families": [
+        {
+          "name": "Victoria Neuman",
+          "url": "https://www.theboysapi.com/api/character/26",
+          "relationship": "Mother"
+        },
+        {
+          "name": "Stan Edgar",
+          "url": "https://www.theboysapi.com/api/character/19",
+          "relationship": "Adopted Grandfather"
+        }
+      ],
+      "portrayed": ["Olivia Morandin"],
+      "first_seen": {
+        "name": "Glorious Five Year Plan",
+        "url": "https://www.theboysapi.com/api/episode/20"
+      },
+      "last_seen": {
+        "name": "Glorious Five Year Plan",
+        "url": "https://www.theboysapi.com/api/episode/20"
+      },
+      "season": [3],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_55.jpg",
+      "url": "https://www.theboysapi.com/api/character/55"
+    },
+    {
+      "id": 56,
+      "name": "Kenji Miyashiro",
+      "real_name": "Kenji Miyashiro",
+      "species": ["Supe"],
+      "citizenship": "American",
+      "gender": "Male",
+      "status": "Deceased",
+      "affiliation": [
+        {
+          "name": "Shining Light Liberation Army",
+          "url": "https://www.theboysapi.com/api/affiliation/10",
+          "is_former": false
+        }
+      ],
+      "families": [
+        {
+          "name": "Kimiko Miyashiro",
+          "url": "https://www.theboysapi.com/api/character/5",
+          "relationship": "Sister"
+        }
+      ],
+      "portrayed": ["Abraham Lim", "Kai Bradbury (Young)", "Derrick Su (Kid)"],
+      "first_seen": {
+        "name": "The Innocents",
+        "url": "https://www.theboysapi.com/api/episode/6"
+      },
+      "last_seen": {
+        "name": "Over the Hill with the Swords of a Thousand Men",
+        "url": "https://www.theboysapi.com/api/episode/11"
+      },
+      "season": [1, 2],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_56.jpg",
+      "url": "https://www.theboysapi.com/api/character/56"
+    },
+    {
+      "id": 58,
+      "name": "Nathan Franklin",
+      "real_name": "Nathan Franklin",
+      "species": ["Human"],
+      "citizenship": "American",
+      "gender": "Male",
+      "status": "Alive",
+      "affiliation": null,
+      "families": [
+        {
+          "name": "A-Train",
+          "url": "https://www.theboysapi.com/api/character/9",
+          "relationship": "Brother"
+        }
+      ],
+      "portrayed": ["Christian Keyes"],
+      "first_seen": {
+        "name": "Get Some",
+        "url": "https://www.theboysapi.com/api/episode/3"
+      },
+      "last_seen": {
+        "name": "The Instant White-Hot Wild",
+        "url": "https://www.theboysapi.com/api/episode/24"
+      },
+      "season": [1, 3],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_58.jpg",
+      "url": "https://www.theboysapi.com/api/character/58"
+    },
+    {
+      "id": 59,
+      "name": "Chloe Vought",
+      "real_name": "Chloe Vought",
+      "species": ["Human"],
+      "citizenship": "American",
+      "gender": "Female",
+      "status": "Deceased",
+      "affiliation": null,
+      "families": [
+        {
+          "name": "Frederick Vought",
+          "url": "https://www.theboysapi.com/api/character/34",
+          "relationship": "Father"
+        },
+        {
+          "name": "Stormfront",
+          "url": "https://www.theboysapi.com/api/character/13",
+          "relationship": "Mother"
+        }
+      ],
+      "portrayed": ["Unknow"],
+      "first_seen": {
+        "name": "The Bloody Doors Off",
+        "url": "https://www.theboysapi.com/api/episode/14"
+      },
+      "last_seen": {
+        "name": "What I Know",
+        "url": "https://www.theboysapi.com/api/episode/16"
+      },
+      "season": [2],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_59.jpg",
+      "url": "https://www.theboysapi.com/api/character/59"
+    },
+    {
+      "id": 60,
+      "name": "Teddy Stillwell",
+      "real_name": "Teddy Stillwell",
+      "species": ["Human"],
+      "citizenship": "American",
+      "gender": "Male",
+      "status": "Unknow",
+      "affiliation": null,
+      "families": [
+        {
+          "name": "Madelyn Stillwell",
+          "url": "https://www.theboysapi.com/api/character/17",
+          "relationship": "Mother"
+        }
+      ],
+      "portrayed": ["Unknow"],
+      "first_seen": null,
+      "last_seen": null,
+      "season": [1],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_60.jpg",
+      "url": "https://www.theboysapi.com/api/character/60"
+    },
+    {
+      "id": 61,
+      "name": "Tessa(TNT Twins)",
+      "real_name": "Tessa",
+      "species": ["Supe"],
+      "citizenship": "American",
+      "gender": "Female",
+      "status": "Deceased",
+      "affiliation": [
+        {
+          "name": "Payback",
+          "url": "https://www.theboysapi.com/api/affiliation/4",
+          "is_former": true
+        },
+        {
+          "name": "Vought International",
+          "url": "https://www.theboysapi.com/api/affiliation/3",
+          "is_former": false
+        }
+      ],
+      "families": [
+        {
+          "name": "Tommy(TNT Twins)",
+          "url": "https://www.theboysapi.com/api/character/61",
+          "relationship": "Brother"
+        }
+      ],
+      "portrayed": ["Kristin Booth"],
+      "first_seen": {
+        "name": "Payback",
+        "url": "https://www.theboysapi.com/api/episode/17"
+      },
+      "last_seen": {
+        "name": "Here Comes a Candle to Light You to Bed",
+        "url": "https://www.theboysapi.com/api/episode/23"
+      },
+      "season": [3],
+      "image": "https://theboysapi.s3.us-west-2.amazonaws.com/character_61.jpg",
+      "url": "https://www.theboysapi.com/api/character/61"
+    }
+  ]
+}
